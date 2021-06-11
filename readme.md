@@ -1,4 +1,7 @@
-# VISIT BUZZER BRANCH FOR MODEL IN BUZZER DETECTOR
+## You can visit branch Sentiment Analysis
 
+for more relate notebook for Pros and Cons Category
 
-# VISIT SENTIMENT ANALYSIS BRANCH FOR MODEL PROS AND CONS DETECTOR
+# You can visit branch Buzzer
+
+for more relate notebook for Pros and Cons Category
